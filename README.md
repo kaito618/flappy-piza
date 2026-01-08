@@ -10,3 +10,12 @@ added the reseter as this whole game is just based on visual illusions u think t
 ![game](https://github.com/user-attachments/assets/7d398edc-ab00-4e53-8526-557725f5dc82)
 
 done at 1:16 am 
+
+
+i added the points sys had some problems with getting it to actually work to find out that i misspelled the area name omd 
+and then i added the "dying" part so now when the player toutches the walls the game resets and that's for now that's the base of the game and i'll start adjusting andd adding other features on the next session see ya all next time 
+![game2](https://github.com/user-attachments/assets/309d7e35-178d-421f-bb9d-a069ea05529c)
+ session done at 2026/1/9 1:53 am 
+ worked for 2.22 hours 
+ coded for  1 hour 7 munites (hacktime)
+ 
