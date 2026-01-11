@@ -33,3 +33,5 @@ and then i added the "dying" part so now when the player toutches the walls the 
  i'll start by adding bacground music and dying animation, some sfx and 
 and maybe a menu if i got time cuz i got a chem final tmrr ahhhh 
 and let's get started
+i added the menu, play , settings , exit buttons + a settings scene + coded and conneceted everything + added bg music 
+done at 2026/1/12 1:64 am
