@@ -34,4 +34,19 @@ and then i added the "dying" part so now when the player toutches the walls the 
 and maybe a menu if i got time cuz i got a chem final tmrr ahhhh 
 and let's get started
 i added the menu, play , settings , exit buttons + a settings scene + coded and conneceted everything + added bg music 
+
+
+![Screenshot_2026-01-12-01-43-51-21_6618453e40a9599bb50d5385b80ba028](https://github.com/user-attachments/assets/2fb97158-0dfd-475a-93f1-f284a5548e4c)
+
+![Screenshot_2026-01-12-01-43-55-53_6618453e40a9599bb50d5385b80ba028](https://github.com/user-attachments/assets/627128e2-ebc6-4b32-817d-8e18b8d24631)
+![Screenshot_2026-01-12-01-43-53-35_6618453e40a9599bb50d5385b80ba028](https://github.com/user-attachments/assets/efa597b6-e80b-41b8-9f7b-f1d736881987)
+
+
+
+
+
 done at 2026/1/12 1:64 am
+
+
+
+
