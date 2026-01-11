@@ -23,8 +23,13 @@ and then i added the "dying" part so now when the player toutches the walls the 
  i fixed some problems with the game like that sometimes it wouldn't send the "die" signal and won't k the plaey so i coluldn't see the problem and uk what u do when udk what to do 
  retype that thing and it will prob work and that's waht i did and it worked then i changed the looks to look a bit better for now untill i start adding my own things to it 
  done at 11:59 pm 
+ 
 
 ![s_2026-01-10_23-55-34](https://github.com/user-attachments/assets/5800763d-ec3c-495b-8118-4f95bc89eee0)
 
  
- 
+ ____________________________________
+ starting work session 2026/1/11 at 11:09 pm
+ i'll start by adding bacground music and dying animation, some sfx and 
+and maybe a menu if i got time cuz i got a chem final tmrr ahhhh 
+and let's get started
