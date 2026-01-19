@@ -47,6 +47,8 @@ i added the menu, play , settings , exit buttons + a settings scene + coded and 
 
 done at 2026/1/12 1:64 am
 
+---------------------------------------
+start of session at 2026/1/19  7:49 pm 
+goals : settings menu , gltches fix , music and sounds control , custom music option , and maybe custom characters , sound effects for dying 
 
-
-
+and let's get started 
