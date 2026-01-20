@@ -52,3 +52,16 @@ start of session at 2026/1/19  7:49 pm
 goals : settings menu , gltches fix , music and sounds control , custom music option , and maybe custom characters , sound effects for dying 
 
 and let's get started 
+
+i forgot to log out that day but anywass i aded a slider control for music in the settings menu and fixed some glitches 
+
+this seesion i started around 2026/1/20 8:20 pm and no wit's 1:33 am 
+i added sfx for the dying and changed the way the game works tho it doesn't work the way i want it yet how it used to work is whenever the player dies it reastarts but i wanted to add a gamever menu with buttons to go to main menu and restart the game and to play an animation for dying and sfx i added all of that and coded it it all works but im still having some problems with the order and some glitches like the music playing more than once and stacking or the game not stopping when the player dies and the game over menu somtimes doesn't pop up so yah i basically added everything but it dosen't work sometimes imma work on that next time 
+done at 2026/1/21 1:36 am 
+
+this is the slider option 
+and will add the other things next time when i fix them 
+
+https://github.com/user-attachments/assets/1faa1668-f19b-4c1b-a3b7-c01e8e6c4ae0
+
+
